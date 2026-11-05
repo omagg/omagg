@@ -11,7 +11,6 @@ workflows**, and interfaces that make them easy to use.
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
 </p>
 
 ### Featured projects
@@ -19,7 +18,7 @@ workflows**, and interfaces that make them easy to use.
 | Project | What I built | Focus |
 | :--- | :--- | :--- |
 | **[Self-Healing RAG](https://github.com/omagg/self-healing-rag)** | Document Q&A with corrective retrieval, HyDE, reranking, optional web recovery, and an answer quality scorecard. | LangGraph · Groq · Streamlit |
-| **[RestroBot](https://github.com/omagg/RestroBot)** | A restaurant-menu assistant combining dense and keyword retrieval, reciprocal rank fusion, cross-encoder reranking, and conversation memory. | FAISS · BM25 · Flask · React |
+| **[RestroBot](https://github.com/omagg/RestroBot)** | A restaurant-menu assistant combining dense and keyword retrieval, reciprocal rank fusion, cross-encoder reranking, and conversation memory. | FAISS · BM25 · Flask |
 | **[LangGraph Chatbot](https://github.com/omagg/Langgraph-Chatbot)** | A conversational app built around graph-based conversation state and a Streamlit chat interface. | LangGraph · LangChain · Groq |
 | **[YouTube RAG Chatbot](https://github.com/omagg/Youtube-Chatbot)** | A chatbot that retrieves relevant passages from English video transcripts to answer questions about a video. | Hugging Face · FAISS · Streamlit |
 
@@ -30,7 +29,7 @@ workflows**, and interfaces that make them easy to use.
 | **AI applications** | Python, LangChain, LangGraph, Groq, Gemini |
 | **Retrieval** | Local embeddings, FAISS, BM25, hybrid search, HyDE, cross-encoder reranking |
 | **Evaluation** | Precision@5, Recall@5, MRR@5, LLM-judged correctness and faithfulness, response time |
-| **Interfaces** | Streamlit, Flask, React, Vite |
+| **Interfaces** | Streamlit, Flask |
 
 ### What I care about
 
@@ -46,5 +45,7 @@ alongside the implementation.
 ---
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/omaggarwal/">Connect on LinkedIn</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/omagg?tab=repositories">Explore my repositories →</a>
 </p>
