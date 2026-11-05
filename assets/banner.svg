@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Om Aggarwal</title>
+  <desc id="desc">Building practical AI with Python. Retrieval, reasoning, and useful answers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1224"/>
+      <stop offset="0.6" stop-color="#15203e"/>
+      <stop offset="1" stop-color="#25204d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <path d="M24 319H1176" stroke="url(#accent)" stroke-width="2" opacity="0.7"/>
+  <g fill="none" stroke="#7986b5" opacity="0.1">
+    <path d="M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+    <path d="M700 40H1200M700 120H1200M700 200H1200M700 280H1200"/>
+  </g>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="64" y="73" fill="#8dd9eb" font-size="13" font-weight="600" letter-spacing="3">PYTHON / RETRIEVAL / APPLIED AI</text>
+    <text x="60" y="151" fill="#f8fafc" font-size="62" font-weight="700" letter-spacing="-2">Om Aggarwal</text>
+    <text x="64" y="198" fill="#c5cee5" font-size="23">Building practical AI with Python.</text>
+    <rect x="64" y="233" width="218" height="31" rx="15.5" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.3"/>
+    <text x="83" y="253" fill="#d8ccff" font-size="12" font-weight="500" letter-spacing="0.5">FROM EVIDENCE TO ANSWERS</text>
+    <path d="M859 119H901V160H932M859 201H901V160" fill="none" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="901" cy="160" r="5" fill="#a78bfa"/>
+    <rect x="737" y="91" width="122" height="56" rx="12" fill="#14283e" stroke="#67e8f9" stroke-opacity="0.45"/>
+    <text x="798" y="125" fill="#a5f3fc" font-size="15" text-anchor="middle">Retrieve</text>
+    <rect x="737" y="173" width="122" height="56" rx="12" fill="#20233e" stroke="#a78bfa" stroke-opacity="0.45"/>
+    <text x="798" y="207" fill="#ddd6fe" font-size="15" text-anchor="middle">Evaluate</text>
+    <rect x="932" y="132" width="166" height="56" rx="12" fill="#25233f" stroke="#a78bfa" stroke-opacity="0.6"/>
+    <text x="1015" y="166" fill="#ede9fe" font-size="15" text-anchor="middle">Useful answers</text>
+  </g>
+</svg>
